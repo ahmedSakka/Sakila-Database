@@ -8,17 +8,17 @@ The Sakila DVD Rental Database Project offers an in-depth exploration of movie r
 
 ## Queries and Analysis
 
-1. `**Top Film Categories by Country**`: Uncover the top film category for countries including the United States, United Kingdom, India, Saudi Arabia, and China. This analysis provides insights into each country's film preferences.
+1. `Top Film Categories by Country`: Uncover the top film category for countries including the United States, United Kingdom, India, Saudi Arabia, and China. This analysis provides insights into each country's film preferences.
 
-2. `**High-Spending Customers**`: Identify the top 10 customers who have spent the most on movie rentals. Discover who the most valuable customers are and their spending habits.
+2. `High-Spending Customers`: Identify the top 10 customers who have spent the most on movie rentals. Discover who the most valuable customers are and their spending habits.
 
-3. `**Most Rented Categories Globally**`: Explore the 10 most rented film categories globally. Gain insights into which types of movies are the most popular among customers.
+3. `Most Rented Categories Globally`: Explore the 10 most rented film categories globally. Gain insights into which types of movies are the most popular among customers.
 
-4. `**Rental Counts by Store and Month**`: Analyze the total rental counts for each store throughout the months for each available year. Understand rental patterns and store performance.
+4. `Rental Counts by Store and Month`: Analyze the total rental counts for each store throughout the months for each available year. Understand rental patterns and store performance.
    
 ## Supplementary Materials
 
-- `**Presentation Slides**`: A four-page presentation that provides an overview of the project's objectives, methodologies, and key findings. This presentation complements the project's analyses and visualizations, offering additional insights for those interested in the project's details.
+- `Presentation Slides`: A four-page presentation that provides an overview of the project's objectives, methodologies, and key findings. This presentation complements the project's analyses and visualizations, offering additional insights for those interested in the project's details.
 
 ## Usage
 
